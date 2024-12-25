@@ -63,8 +63,8 @@ def send_email():
 def async_send_email(email, subject, body):
     logging.debug(f"Preparing to send email to {email} with subject: {subject}")
 
-    sender_email = "nandayanxr@gmail.com"
-    sender_password = "ostz kmby yznm iuhp"
+    sender_email = "*************@gmail.com"
+    sender_password = "**** **** **** ****"
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
 
